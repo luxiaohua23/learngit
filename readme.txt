@@ -1,3 +1,3 @@
-Git is a versionn conntrol system.
-Git is free software.
+1Git is a versionn conntrol system.
+2Git is free software.
 
